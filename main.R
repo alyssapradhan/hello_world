@@ -1,1 +1,1 @@
-print("Hello, universe!")
+print("This is mind numbing")
