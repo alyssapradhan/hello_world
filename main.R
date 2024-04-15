@@ -1,1 +1,1 @@
-print("This is mind numbing")
+print("This is so fun")
